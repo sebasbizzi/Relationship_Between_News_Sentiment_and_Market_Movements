@@ -1,5 +1,6 @@
 # Project: Investigating the Relationship Between News Sentiment and Market Movements
 **Author:** Sebastian Bizzi
+
 **Date:** October 23, 2025
 
 ---
